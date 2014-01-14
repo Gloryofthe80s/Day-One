@@ -1,0 +1,126 @@
+.pageTitleLeft {
+	font-family: 'News Cycle', sans-serif;
+	text-align: left;
+	display: inline-block;
+	font-size: 36px
+}
+
+.pageTitleRight {
+	font-family: 'News Cycle', sans-serif;
+	font-size: 18px;
+	display: inline-block;
+	vertical-align: right;
+}
+
+div {
+	width: 960px;
+	height: 260px;
+	background-color: rgb(255, 255, 255);
+	display: inline-block;
+}
+
+h1 {
+	margin: 0px;
+}
+
+ul {
+	font-family: 'News Cycle', sans-serif;
+	font-size: 24px;
+	display: inline-block;
+}
+
+p {
+	font-family: 'News Cycle', sans-serif;
+	font-size: 18px;
+	display: inline-block;
+	float: right;
+}
+
+.containerAll {
+	background-color: rgb(255, 255, 255);
+	height: auto;
+	display: inline-block;
+}
+
+.container {
+	display: inline-block;
+	height: 200px;
+	width: 360px;
+	background-color: inherit;
+	float: right;
+}
+/* */
+
+.chunk1 {
+	display: inline-block;
+	background-color: rgb(217, 66, 20);
+	padding: 30px;
+}
+
+.chunk1List {
+	display: inline-block;
+	float: left;
+}
+
+.chunk1Pic {
+	display: inline-block;
+	float: right;
+}
+
+/* */
+
+.chunk2 {
+	background-color: rgb(255, 242, 193);
+	padding: 30px;
+	display: inline-block;
+}
+
+.chunk2Pic {
+	display: inline-block;
+	float: left;
+}
+
+.chunk2List {
+	display: inline-block;
+	float: right;
+}
+
+/* */
+
+.chunk3 {
+	background-color: rgb(128, 168, 128);
+	padding: 30px;
+}
+.chunk3P {
+	display: inline-block;
+	text-align: center;
+}
+
+/* */
+
+.chunk4 {
+	background-color: rgb(82, 115, 107);
+	padding: 30px;
+}
+
+/* */
+
+.chunk5 {
+	background-color: rgb(9, 56, 68);
+	padding: 30px;
+}
+
+.chunk5P {
+	font-size: 72px;
+	color: white;
+	text-align: center;
+}
+/* */
+
+.pageFooter {
+	font-family: 'News Cycle', sans-serif;
+	height: 40px;
+	text-align: right;
+	font-size: 6px;
+}
+
